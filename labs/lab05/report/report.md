@@ -42,7 +42,7 @@ romanfontoptions: Ligatures=TeX
 sansfontoptions: Ligatures=TeX,Scale=MatchLowercase
 monofontoptions: Scale=MatchLowercase,Scale=0.9
 ## Biblatex
-biblatex: true
+biblatex: false
 biblio-style: "gost-numeric"
 biblatexoptions:
   - parentracker=true

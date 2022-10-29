@@ -33,16 +33,16 @@ polyglossia-otherlangs:
 babel-lang: russian
 babel-otherlangs: english
 ## Fonts
-mainfont: PT Serif
-romanfont: PT Serif
+mainfont: PT Sans
+romanfont: PT Sans
 sansfont: PT Sans
-monofont: PT Mono
+monofont: PT sans
 mainfontoptions: Ligatures=TeX
 romanfontoptions: Ligatures=TeX
 sansfontoptions: Ligatures=TeX,Scale=MatchLowercase
 monofontoptions: Scale=MatchLowercase,Scale=0.9
 ## Biblatex
-biblatex: true
+biblatex: false
 biblio-style: "gost-numeric"
 biblatexoptions:
   - parentracker=true
